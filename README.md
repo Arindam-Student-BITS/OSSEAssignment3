@@ -1,3 +1,3 @@
-# OSSEAssignment3
+# OSSEAssignment3 - My Profile site hosted on GitHub pages
 
-# My Profile site hosted on GitHub pages
+
