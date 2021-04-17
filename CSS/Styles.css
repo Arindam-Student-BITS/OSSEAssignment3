@@ -33,10 +33,17 @@ h2{
 }
 
 h3 {
-  color: #0d7377;
+  color: #351f39;
   font-family: 'Montserrat', sans-serif;
 /*  font-family: 'Merriweather', serif;*/
 }
+
+h4 {
+  color: #351f39;
+  font-family: 'Montserrat', sans-serif;
+/*  font-family: 'Merriweather', serif;*/
+}
+
 
 .biobrief {
   background-color: #ffc1b6;
@@ -50,6 +57,17 @@ h3 {
   font-family: 'Montserrat', sans-serif;
   font-size:1em;
   margin-left: 10px;
+}
+
+.last-but-bottom-logos{
+  text-align: center;
+}
+
+.last-but-bottom-logos-h4{
+  color: #351f39;
+  font-family: 'Montserrat', sans-serif;
+  margin-block-start: 0.4em;
+  /*  font-family: 'Merriweather', serif;*/
 }
 
 .bottom-container{
@@ -90,5 +108,5 @@ h3 {
   font-family: 'Montserrat', sans-serif;
 }
 #contact-me-link{
-  margin-left: 82rem;
+  margin-left: 80rem;
 }
