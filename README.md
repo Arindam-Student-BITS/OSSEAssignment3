@@ -4,6 +4,8 @@ This site will be gradually enhanced.
 
 Currently I am working on Release 1.
 
+This website is currently not designed to be responsive and is best viewed in a large screen desktop.
+
 Release 1 will contain static pages.
 
 Release 2 will contain enhanced static pages with more menus.
