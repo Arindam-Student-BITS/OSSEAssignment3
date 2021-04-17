@@ -1,0 +1,94 @@
+/* Tag Selectors */
+a{
+  color: white;
+  text-decoration: none;
+  font-weight:bold;
+  margin-left: 1em;
+  font-family: 'Montserrat', sans-serif;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 3px;
+  width: 5%;
+}
+
+body {
+  background-color: #ffe3de;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  color: #351f39;
+  margin-top: 0:
+  font-family: 'Montserrat', sans-serif;
+/*  font-family: 'Merriweather', serif;*/
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+/*  font-family: 'Merriweather', serif;*/
+}
+
+h3 {
+  color: #0d7377;
+  font-family: 'Montserrat', sans-serif;
+/*  font-family: 'Merriweather', serif;*/
+}
+
+.biobrief {
+  background-color: #ffc1b6;
+  height: 18rem;
+  margin: 0;
+}
+
+.last-but-bottom{
+  background-color: #ffe3de;
+  height: 12.3rem;
+  font-family: 'Montserrat', sans-serif;
+  font-size:1em;
+  margin-left: 10px;
+}
+
+.bottom-container{
+  background-color:#350b40;
+  height: 6rem;
+  text-align: center;
+}
+
+#top-menu {
+  background-color: #350b40;
+  height: 4rem;
+  text-align: left;
+}
+
+#pic-n-title {
+  background-color: #ffdcb8;
+  height: 12rem;
+}
+
+#profilepic{
+   height: 9rem;
+}
+
+#biobrief{
+  font-family: 'Montserrat', sans-serif;
+  font-size:1em;
+  margin-left: 10px;
+  line-height: 2;
+  margin-top: 0;
+}
+
+#Name{
+  font-family: 'Sacramento', cursive;
+}
+
+#footer-para {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+#contact-me-link{
+  margin-left: 40rem;
+}
