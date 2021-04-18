@@ -79,7 +79,7 @@ h6{
 }
 
 .eductaion-grid-container{
-  background-color:red;
+  background-color:#ffe3de;
   height: 4.75rem;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
