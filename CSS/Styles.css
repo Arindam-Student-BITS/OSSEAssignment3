@@ -14,11 +14,11 @@ hr{
   width: 5%;
 }
 
-body {
+/*body {
   background-color: #ffe3de;
   margin: 0;
   font-family: 'Montserrat', sans-serif;
-}
+}*/
 
 h1 {
   color: #351f39;
@@ -48,6 +48,15 @@ h6{
   color: white;
 }
 
+.boldheadings{
+  margin-left: 2px; 
+}
+
+.overall{
+   background-color: #ffe3de;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
 .biobrief {
   background-color: #ffc1b6;
   height: 15rem;
@@ -123,6 +132,6 @@ h6{
   /*color: white;*/
   font-family: 'Montserrat', sans-serif;
 }
-#contact-me-link{
+#sharethemeal{
   margin-left: 80rem;
 }
