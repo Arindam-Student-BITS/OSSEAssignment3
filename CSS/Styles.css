@@ -14,11 +14,11 @@ hr{
   width: 5%;
 }
 
-body {
+/*body {
   background-color: #ffe3de;
   margin: 0;
   font-family: 'Montserrat', sans-serif;
-}
+}*/
 
 h1 {
   color: #351f39;
@@ -33,28 +33,71 @@ h2{
 }
 
 h3 {
-  color: #0d7377;
+  color: #351f39;
   font-family: 'Montserrat', sans-serif;
 /*  font-family: 'Merriweather', serif;*/
 }
 
+h4 {
+  color: #351f39;
+  font-family: 'Montserrat', sans-serif;
+/*  font-family: 'Merriweather', serif;*/
+}
+
+h6{
+  color: white;
+}
+
+.boldheadings{
+  margin-left: 2px; 
+}
+
+.overall{
+   background-color: #ffe3de;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
 .biobrief {
   background-color: #ffc1b6;
-  height: 18rem;
+  height: 15rem;
   margin: 0;
 }
 
-.last-but-bottom{
+.last-but-bottom-grid-container{
   background-color: #ffe3de;
-  height: 12.3rem;
+  height: 13rem;
   font-family: 'Montserrat', sans-serif;
   font-size:1em;
-  margin-left: 10px;
+  margin-top: 45px;
+  margin-left: 5px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-gap: 20px;
+
+}
+
+.last-but-bottom-logos{
+  text-align: center;
+}
+
+.last-but-bottom-logos-h4{
+  color: #351f39;
+  font-family: 'Montserrat', sans-serif;
+  margin-block-start: 0.4em;
+  /*  font-family: 'Merriweather', serif;*/
+}
+
+.eductaion-grid-container{
+  background-color:#ffe3de;
+  height: 4.75rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 20px;
 }
 
 .bottom-container{
   background-color:#350b40;
-  height: 6rem;
+  height: 5rem;
   text-align: center;
 }
 
@@ -66,11 +109,11 @@ h3 {
 
 #pic-n-title {
   background-color: #ffdcb8;
-  height: 12rem;
+  height: 16rem;
 }
 
 #profilepic{
-   height: 9rem;
+   height: 10rem;
 }
 
 #biobrief{
@@ -86,9 +129,9 @@ h3 {
 }
 
 #footer-para {
-  color: white;
+  /*color: white;*/
   font-family: 'Montserrat', sans-serif;
 }
-#contact-me-link{
-  margin-left: 40rem;
+#sharethemeal{
+  margin-left: 80rem;
 }
